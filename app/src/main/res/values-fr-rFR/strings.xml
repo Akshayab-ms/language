@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">    activité linguistique
+</string>
+    <string name="login">  connexion</string>
+    <string name="user_name">Nom d\'utilisateur </string>
+    <string name="password"> le mot de passe</string>
+    <string name="signin"> s\'identifier</string>
+    <string name="forget_password"> mot de passe oublié </string>
+</resources>

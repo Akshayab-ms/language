@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LanguageActivity</string>
+    <string name="login">login</string>
+    <string name="user_name">use name</string>
+    <string name="password">password</string>
+    <string name="signin">signin</string>
+    <string name="forget_password">forget password</string>
+</resources>

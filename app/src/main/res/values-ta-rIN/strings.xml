@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> மொழி செயல்பாடு</string>
+    <string name="login">  உள்நுழைய</string>
+    <string name="user_name">  பயனர் பெயர்</string>
+    <string name="password">  கடவுச்சொல்</string>
+    <string name="signin"> உள்நுழைவு</string>
+    <string name="forget_password"> கடவுச்சொல்லை மறந்து</string>
+</resources>
+
+
+
+
+
+
+
+
